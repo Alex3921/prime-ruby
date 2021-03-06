@@ -1,5 +1,5 @@
 # Add  code here!
-def prime(n)
+def prime?(n)
     a = []
     while n % 2 == 0
         a << 2
